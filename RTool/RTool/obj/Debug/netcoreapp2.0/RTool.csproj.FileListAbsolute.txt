@@ -1,0 +1,11 @@
+E:\GitResp\github\RTool\RTool\RTool\bin\Debug\netcoreapp2.0\RTool.deps.json
+E:\GitResp\github\RTool\RTool\RTool\bin\Debug\netcoreapp2.0\RTool.runtimeconfig.json
+E:\GitResp\github\RTool\RTool\RTool\bin\Debug\netcoreapp2.0\RTool.runtimeconfig.dev.json
+E:\GitResp\github\RTool\RTool\RTool\bin\Debug\netcoreapp2.0\RTool.dll
+E:\GitResp\github\RTool\RTool\RTool\bin\Debug\netcoreapp2.0\RTool.pdb
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.csprojResolveAssemblyReference.cache
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.csproj.CoreCompileInputs.cache
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.AssemblyInfoInputs.cache
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.AssemblyInfo.cs
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.dll
+E:\GitResp\github\RTool\RTool\RTool\obj\Debug\netcoreapp2.0\RTool.pdb
