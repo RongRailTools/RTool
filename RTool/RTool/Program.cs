@@ -38,7 +38,7 @@ namespace RTool
                 {
                     string[] colArr = rowArr[ i ].Split( " " );
                     //默认处理一行的3组数据
-                    if( colArr.Length > 2 )
+                    if( colArr.Length > 1 )
                     {
                         decimal middleNum = decimal.Parse( colArr[ 1 ] );
                         middleNum += offset;
@@ -47,6 +47,7 @@ namespace RTool
                     else
                     {
                         warningWindowDel?.Invoke();
+                        Console.WriteLine( "本组数据少于2个 。行数 : " + i );
                     }
                     sb = sb.AppendJoin( " " , colArr );
                     sb.Append( "\r\n" );
